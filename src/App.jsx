@@ -17,7 +17,6 @@ const vegetables = [{id: 6, name:'potatoes', calories:110},
         <>
             <List items={fruits} category={"fruits"}/>
             <List items={vegetables} category={"vegetables"}/>
-            <h3>Happy <Travels></Travels></h3>
         </>
     );
 }
